@@ -1,0 +1,14 @@
+E:\Jspiders\SpringWorkspace\SpringBootProject2\src\main\java\com\jspiders\studentmanagementsystem\exception\StudentNotFoundByEmailException.java
+E:\Jspiders\SpringWorkspace\SpringBootProject2\src\main\java\com\jspiders\studentmanagementsystem\service\StudentService.java
+E:\Jspiders\SpringWorkspace\SpringBootProject2\src\main\java\com\jspiders\studentmanagementsystem\entity\Student.java
+E:\Jspiders\SpringWorkspace\SpringBootProject2\src\main\java\com\jspiders\studentmanagementsystem\repository\StudentRepo.java
+E:\Jspiders\SpringWorkspace\SpringBootProject2\src\main\java\com\jspiders\studentmanagementsystem\exception\StudentNotFoundByIdException.java
+E:\Jspiders\SpringWorkspace\SpringBootProject2\src\main\java\com\jspiders\studentmanagementsystem\dto\StudentRequest.java
+E:\Jspiders\SpringWorkspace\SpringBootProject2\src\main\java\com\jspiders\studentmanagementsystem\exception\ApplicationExceptionHandler.java
+E:\Jspiders\SpringWorkspace\SpringBootProject2\src\main\java\com\jspiders\studentmanagementsystem\exception\StudentNotFoundByPhNoException.java
+E:\Jspiders\SpringWorkspace\SpringBootProject2\src\main\java\com\jspiders\studentmanagementsystem\SpringBootProject2Application.java
+E:\Jspiders\SpringWorkspace\SpringBootProject2\src\main\java\com\jspiders\studentmanagementsystem\util\ErrorStructure.java
+E:\Jspiders\SpringWorkspace\SpringBootProject2\src\main\java\com\jspiders\studentmanagementsystem\serviceimpl\StudentServiceImpl.java
+E:\Jspiders\SpringWorkspace\SpringBootProject2\src\main\java\com\jspiders\studentmanagementsystem\util\ResponseStructure.java
+E:\Jspiders\SpringWorkspace\SpringBootProject2\src\main\java\com\jspiders\studentmanagementsystem\controller\StudentController.java
+E:\Jspiders\SpringWorkspace\SpringBootProject2\src\main\java\com\jspiders\studentmanagementsystem\dto\StudentResponse.java

@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.jspiders.SpringBootProject2.SpringBootProject2ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.199 s <<< FAILURE! - in com.jspiders.SpringBootProject2.SpringBootProject2ApplicationTests
+com.jspiders.SpringBootProject2.SpringBootProject2ApplicationTests  Time elapsed: 1.195 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+
